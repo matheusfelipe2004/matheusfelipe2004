@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Matheus Felipe
-- 👀 I’m interested in C# and JavaScript
-- 🌱 I’m currently learning Java, react and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ..He/Him.
-- ⚡ Fun fact: ...
+🧠 Sobre Mim
+Olá! Eu chamo Matheus Felipe e sou apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de aprender novas linguagens, frameworks e construir projetos que me desafiem.
 
-<!---
-matheusfelipe2004/matheusfelipe2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente estudo e desenvolvo com:
+
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </p>
