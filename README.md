@@ -1,4 +1,4 @@
-🧠 Sobre Mim
+
 Olá! Eu chamo Matheus Felipe e sou apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de aprender novas linguagens, frameworks e construir projetos que me desafiem.
 
 Atualmente estudo e desenvolvo com:
